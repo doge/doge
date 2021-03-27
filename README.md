@@ -1,4 +1,4 @@
 ### hello!
 welcome to my github!
 
-i mostly make things using python but i want to start focusing on other languages like c++
+![sally doing important work](https://i.imgur.com/Alj3Qsq.jpg)
